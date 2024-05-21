@@ -1,8 +1,6 @@
 /*
-stream Butter!
-eggyHide eggyVengeance
-I need U
-xiao rerun when
+Helios
+Je Crois En Moi
  */
 import static java.lang.Math.max;
 import static java.lang.Math.min;
